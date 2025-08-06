@@ -1,3 +1,6 @@
+Python version: Python 3.11.13
+TensorFlow version: 2.15.0
+
 import numpy as np
 import pandas as pd
 import os
